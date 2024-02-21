@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taiwo-Odugbesan
 - 👀 I’m interested in DevOps, Platform engineering
-- 🌱 I’m currently learning Kuberntes
+- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on any open source projects
 - 📫 How to reach me: my GitHub profile, Twitter: @Tee_Gbez
 - 😄 Pronouns: ...
